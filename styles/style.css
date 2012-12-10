@@ -1,0 +1,93 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: blue;
+	width: 1300px;
+}
+
+nav{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	width:90%;
+	
+	background-color: white;
+	}
+	
+footer{
+	width: 90%;
+	height: 10%;
+	
+	background-color: white;
+	
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: -10px;
+	
+	clear: both;
+	
+	
+	}
+	
+header{
+	width: 90%;
+	height: 200px;
+	
+	margin-top: 30px;
+	margin-left: 5%;
+	margin-right: 5%;
+	
+	background-color: white;
+	}
+	
+#LEFT_COLUMN {
+	width: 200px;
+	margin-right: 5px;
+	
+	background-color: white;
+	
+	position: absolute;	
+	left: 0px;
+	top: 0px;
+}
+
+#RIGHT_COLUMN {
+	width: 200px;
+	overflow: hidden;
+	background-color: white;
+	
+	position: absolute;
+	top: 0px;
+	right:0px;
+}
+
+#CENTER {	
+	margin-left: 5%;
+	margin-right: 5%;
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	padding: 0px;
+	
+	position: relative;
+	}
+
+article {
+
+	margin-right: 210px;
+	margin-left: 210px;
+	
+	width: auto;
+	background-color: white;
+	color: black;
+	
+	position: relative;
+	}
+
+
+
+
+
