@@ -4,7 +4,13 @@
 	//taki main
 		echo("<header>Naguwek!</header>");
 		
-		echo("<nav>Nawigacja</nav></nav>");
+		echo("<nav>
+			<div id=\"Button\">Tekst</div>
+			<div id=\"Button\">Tekst</div>
+			<div id=\"Button\">Tekst</div>
+			<div id=\"Button\">Tekst</div>
+			<div id=\"Button\">Tekst</div>
+		</nav>");
 		
 		echo("	<div id=\"CENTER\">
 		
@@ -13,149 +19,22 @@
 					</div>
 					
 					<article>
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
-					TREŹĆ TREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆTREŹĆ
+					TREŹĆ lorem ipsum lorem iopsum TRETREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
+					TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum TREŹĆ lorem ipsum lorem iopsum 
 					</article>
 					
 					<div id=\"RIGHT_COLUMN\">
